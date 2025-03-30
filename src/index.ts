@@ -1,4 +1,5 @@
 import express, { Request, Response } from "express"
+import { addWebhook } from './webhook';
 
 const app = express();
 const PORT = 8066
@@ -18,6 +19,8 @@ app.get("/", (req: Request, res: Response) => {
   `
   res.send(html)
 });
+
+addWebhook(app)
 
 // Start the server
 app.listen(PORT, () => {
