@@ -1,0 +1,24 @@
+{
+    "title": "Sałatka grecka",
+    
+    "subtitle": "Z pomidora, ogórka, czerwonej cebuli i czarnych oliwek, z oliwą i oregano",
+
+    "ingridients" : [
+        "2 pomidory",
+        "4 ogórki gruntowe lub 2 szklarniowe",
+        "1/2 czerwonej cebuli",
+        "1/2 szklanki czarnych oliwek",
+        "250 g oryginalnego, greckiego sera feta",
+        "4 łyżeczki suszonego oregano",
+        "4 łyżki oliwy extra vergine",
+        "świeżo zmielony pieprz"
+    ],
+
+    "preparation" : [
+        "Pomidory pokroić na ćwiartki, usunąć szypułki, następnie pokroić na jeszcze mniejsze kawałki.",
+        "Ogórki obrać (można pozostawić miejscami paseczki zielonej skórki), przekroić wzdłuż na pół a następnie na grubsze półplasterki.",
+        "Cebulę cienko poszatkować. Oliwki przekroić na połówki.",
+        "Wszystkie składniki umieścić w jednej większej salaterce lub w 4 mniejszych, doprawić świeżo zmielonym pieprzem.",
+        "Na wierzchu położyć plasterki sera feta. Posypać suszonym oregano i polać oliwą. Można doprawić solą, ale ser feta jest już dość słony."
+    ]
+}
