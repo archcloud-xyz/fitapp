@@ -6,8 +6,8 @@ export function addWebhook(app: Express) {
     // (Optionally verify secret, branch, etc. here)
 
     exec(
-      'cd /home/debian/projs/fitapp && git pull && npm install && npm run build && pm2 restart fitapp',
-      //'echo "Hello worker from web!" > /tmp/myworker.fifo',
+      //'cd /home/debian/projs/fitapp && git pull && npm install && npm run build && pm2 restart fitapp',
+      'echo "Hello worker from web!" > /tmp/myworker.fifo',
       (error: ExecException | null, stdout: string, stderr: string) => {
         if (error) {
           console.error(`Error: ${error}`);
