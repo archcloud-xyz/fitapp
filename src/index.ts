@@ -1,9 +1,8 @@
 import express, { Request, Response } from "express"
 
 const app = express();
-const PORT = 3000;
+const PORT = 8066
 
-// A simple route to serve a webpage
 app.get("/", (req: Request, res: Response) => {
   const html = `
     <!DOCTYPE html>
