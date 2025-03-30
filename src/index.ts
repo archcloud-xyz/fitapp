@@ -13,7 +13,7 @@ app.get("/", (req: Request, res: Response) => {
       </head>
       <body>
         <h1>Hello from Express + TypeScript!</h1>
-        <p>This is a very basic webpage served by Express.</p>
+        <p>This is a very basic webpage served by Express. I love Lucynka :*</p>
       </body>
     </html>
   `
