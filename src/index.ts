@@ -9,7 +9,7 @@ app.get("/", (req: Request, res: Response) => {
     <!DOCTYPE html>
     <html>
       <head>
-        <title>My Simple Express + TypeScript App</title>
+        <title>My Simple Express + TypeScript App test</title>
       </head>
       <body>
         <h1>Hello from Express + TypeScript!</h1>
